@@ -1,0 +1,53 @@
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+*.workspace
+eagle.epf
+
+# Autorouter files
+*.pro
+*.job
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+*.dri
+*.gpi
+*.pls
+*.ger
+*.gpi
+*.drd
+*.drd.*
+
+*.s#*
+*.b#*
+
+*.info
+
+
+/ref
+/src/NoABS_tmp
+src/tmp.brd
+src/tmp.sch
+/docs/reference/tidrbx0/TIDA-00168 Altium Project
+src/tmeter~renumsch.scr
+docs/reference/tidrbx0/IMP NOTICE FOR REF DESIGNS.pdf
+src/tmeter7.brd
+src/tmeter7.sch
+/src/indicator/NoABS_tmp
+/src/kicad
+/src/indicator
+/src/manf
